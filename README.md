@@ -29,14 +29,14 @@ html {
 }
 
 .about-section {
-  padding: 50px;
+  padding: 60px;
   text-align: center;
   background-color: #474e5d;
   color: white;
 }
 
 .container {
-  padding: 0 16px;
+  padding: 0 20px;
 }
 
 .container::after, .row::after {
@@ -80,7 +80,7 @@ html {
   <p>SV-Restaurant Hotels is a chain of luxury hotels and a subsidiary of the Indian Hotels 
     Company Limited,headquartered at Express Towers, Nariman Point, Mumbai. Incorporated 
     by the founder of the Tata Group, Jamsetji Tata,the company is a part of the 
-    Tata Group, one of India's largest business conglomerates.</p>
+    Tata Group, one of the India's largest business conglomerates.</p>
 </div>
 
   <div class="column">
